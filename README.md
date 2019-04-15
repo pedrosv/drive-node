@@ -1,1 +1,1 @@
-Back-end using node of dropbox app like
+Back-end of dropbox-like app using node js
